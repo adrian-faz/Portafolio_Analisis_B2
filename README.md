@@ -28,7 +28,7 @@ A continuación se presentan los archivos que están listos para ser retroalimen
 * ### Módulo 5: Estadística Avanzada
 
 * ### Reto
-* **MR_Ética** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis_B2/tree/main/retro/Reto/MR_Etica
+* * **MR_Ética** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis_B2/tree/main/retro/Reto/MR_Etica
 
 
 
