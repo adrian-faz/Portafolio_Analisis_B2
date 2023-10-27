@@ -1,9 +1,9 @@
 # Portafolio de Análisis
 ### Adrián Emmanuel Faz Mercado - A01570770
 
-Inteligencia Artificial Avanzada para la Ciencia de Datos I
+Inteligencia Artificial Avanzada para la Ciencia de Datos II
 
-En este repositorio se encuentran las actividades pertenecientes al portafolio de análisis del bloque TC3006B.
+En este repositorio se encuentran las actividades pertenecientes al portafolio de análisis de la concentración TC3007C.
 
 ## Estructura
 El repositorio contiene las siguientes carpetas:
@@ -17,12 +17,22 @@ El repositorio contiene las siguientes carpetas:
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* ### Módulo 1: Estadística
-   * **MR_Tecnicas** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M1_Estadistica/MR_Tecnicas
+* ### Módulo 1: Big Data
      
-* ### Módulo 2: Machine Learning
-   * **MR_Normativa** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Normativa
-   * **MR_Reporte** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Reporte
+* ### Módulo 2: Deep Learning
+
+* ### Módulo 3: Procesamiento de Lenguaje Natural (NLP)
+
+* ### Módulo 4: Cómputo en la Nube
+
+* ### Módulo 5: Estadística Avanzada
+
+* ### Reto
+* **MR_Ética** - Entrega en: https://github.com/adrian-faz/Portafolio_Analisis/tree/main/retro/M2_ML/MR_Reporte
+
+
+
+
 
 
 
