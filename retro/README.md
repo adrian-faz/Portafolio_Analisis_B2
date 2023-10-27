@@ -8,5 +8,4 @@ Esta carpeta contiene las siguientes carpetas y archivos:
 * ### **Archivos**
   * **README.md** Este archivo, el cual describe el contenido de la carpeta "retro".
 * ### **Carpetas**
-  * **M1_Estadistica:** Carpeta con las actividades y entregas de versión borrador del módulo de Estadística.
-  * **M2_ML:** Carpeta con las actividades y entregas de versión borrador del módulo de Machine Learning.
+  * **Reto:** Carpeta con las actividades y entregas de versión borrador del módulo de Reto.
