@@ -1,6 +1,6 @@
-# Actividad: Análisis del contexto y la normatividad
+# Actividad: Privacidad y Seguridad de los Datos
 
-En esta carpeta se encuentran los archivos pertenecientes a la actividad de Análisis del contexto y la normatividad
+En esta carpeta se encuentran los archivos pertenecientes a la actividad de Privacidad y Seguridad de los Datos
 
 ## Estructura
 Esta carpeta contiene las siguientes carpetas y archivos:
